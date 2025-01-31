@@ -1,47 +1,22 @@
-<h1 align="center">Hi, I'm Recepalp Saygılı 👋</h1>
+<h1 align="center">👋 Hi, I'm Recepalp Saygılı</h1>
 
 <p align="center">
-🚀 Computer Engineering Student | 🤖 Robotics & AI Enthusiast
+🚀 Robotics & AI Enthusiast | 🎓 Computer Engineering Student
 </p>
-
 ---
-
-## 📌 About Me
-- 🎓 **Sakarya University of Applied Sciences** | Computer Engineering
-- 🤖 Passionate about **Autonomous Systems, Robotics, AI, and Embedded Systems**
-- 🏆 **TÜBİTAK Award-Winning Developer** (Robotaxi & Efficiency Challenge)
-- ⚡ Working on **AI-based Control Systems, Multi-Robot Fleet Management, and Perception Systems**
-
+### 🚀 Skills  
+🔹 **Programming:** Python | C++
+🔹 **Robotics & AI:** ROS | ROS2 | Behavior Trees  
+🔹 **Data Analysis:** Pandas | Matplotlib | NumPy  
 ---
-
-## 🚀 Skills & Expertise
-- **Programming:** Python 🐍 | C++ 💻
-- **Robotics & AI:** ROS 🤖 | ROS2 🚀 | Nav2 | Behavior Trees 🌲
-- **Data Analysis & Visualization:** Pandas 📊 | Matplotlib 📉 | NumPy 🏎️
-- **UI Development:** Qt 🖥️ | PyQt5 | PySide2 | PySide6
-- **Multithreading & Communication:** Serial 🛰️
-
+### 🏆 Achievements  
+🏅 **1st Place** - TÜBİTAK Robotaxi-Passenger (2023-2024)  
+🏅 **3rd Place** - TÜBİTAK Efficiency Challenge (2022-2023)  
+🤖 Developed Autonomous Navigation for Multi-Robot Systems  
 ---
-
-## 🏆 Achievements
-🏅 **1st Place** - TÜBİTAK Robotaxi-Passenger Competition (2023-2024)  
-🏅 **3rd Place** - TÜBİTAK International Efficiency Challenge (2022-2023)  
-🤖 Developed an **Autonomous Navigation System** using **Behavior Trees**  
-📡 Worked on **Multi-Robot Fleet Management** with Swarm Navigation  
-
+### 📫 Contact  
+📩 **Email:** [srecepalp@gmail.com](mailto:srecepalp@gmail.com)  
+🔗 **LinkedIn:** [Recepalp Saygılı](https://www.linkedin.com/in/recepalp-saygılı-b2a0a0231/)  
+🌍 **GitHub:** [Recepalp10](https://github.com/Recepalp10)  
 ---
-
-## 📌 Projects
-🔹 **AI-Powered Trading Bot** (TÜBİTAK 2209-A Research)  
-🔹 **Autonomous Navigation for Multi-Robot Systems**  
----
-
-## 📫 Connect with Me  
-📩 Email: [srecepalp@gmail.com](mailto:srecepalp@gmail.com)  
-🔗 LinkedIn: [Recepalp Saygılı](https://www.linkedin.com/in/recepalp-saygılı-b2a0a0231/)  
-📝 Medium: [@srecepalp](https://medium.com/@srecepalp)  
-🌍 GitHub: [Recepalp10](https://github.com/Recepalp10)  
-
----
-
-⚡ **"Building the future with AI, robotics, and embedded systems!"** 🚀  
+🚀 **"Building the future with AI & Robotics Systems!"**  
