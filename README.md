@@ -26,8 +26,7 @@
 ### 📫 Contact  
 📩 **Email:** [srecepalp@gmail.com](mailto:srecepalp@gmail.com)  
 🔗 **LinkedIn:** [Recepalp Saygılı](https://www.linkedin.com/in/recepalp-saygılı-b2a0a0231/)  
-🌍 **GitHub:** [Recepalp10](https://github.com/Recepalp10)  
-
+📝 **Medium:** [@srecepalp](https://medium.com/@srecepalp) 
 ---
 
 🚀 **"Building the future with AI, Robotics & Embedded Systems!"**  
