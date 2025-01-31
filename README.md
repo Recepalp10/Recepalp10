@@ -12,6 +12,7 @@
    - **Robotics:** ROS | ROS2 | Behavior Trees | Navigation (Nav2)  
    - **Artificial Intelligence:** Machine Learning | Deep Learning | Computer Vision  
    - **AI Frameworks:** TensorFlow | PyTorch | Keras | OpenCV | Scikit-learn  
+
 🔹 **Data Analysis & Visualization:** Pandas | Matplotlib | NumPy  
 
 ---
@@ -26,7 +27,7 @@
 ### 📫 Contact  
 📩 **Email:** [srecepalp@gmail.com](mailto:srecepalp@gmail.com)  
 🔗 **LinkedIn:** [Recepalp Saygılı](https://www.linkedin.com/in/recepalp-saygılı-b2a0a0231/)  
-📝 **Medium:** [@srecepalp](https://medium.com/@srecepalp) 
+📝 **Medium:** [srecepalp](https://medium.com/@srecepalp) 
 ---
 
 🚀 **"Building the future with AI, Robotics & Embedded Systems!"**  
