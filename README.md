@@ -3,20 +3,31 @@
 <p align="center">
 🚀 Robotics & AI Enthusiast | 🎓 Computer Engineering Student
 </p>
+
 ---
+
 ### 🚀 Skills  
-🔹 **Programming:** Python | C++
-🔹 **Robotics & AI:** ROS | ROS2 | Behavior Trees  
-🔹 **Data Analysis:** Pandas | Matplotlib | NumPy  
+🔹 **Programming:** Python | C++  
+🔹 **Robotics & AI:**  
+   - **Robotics:** ROS | ROS2 | Behavior Trees | Navigation (Nav2)  
+   - **Artificial Intelligence:** Machine Learning | Deep Learning | Computer Vision  
+   - **AI Frameworks:** TensorFlow | PyTorch | Keras | OpenCV | Scikit-learn  
+🔹 **Data Analysis & Visualization:** Pandas | Matplotlib | NumPy  
+
 ---
+
 ### 🏆 Achievements  
-🏅 **1st Place** - TÜBİTAK Robotaxi-Passenger (2023-2024)  
-🏅 **3rd Place** - TÜBİTAK Efficiency Challenge (2022-2023)  
-🤖 Developed Autonomous Navigation for Multi-Robot Systems  
+🏅 **1st Place** - TÜBİTAK Robotaxi-Passenger (2023-2024, Ready Vehicle Category)  
+🏅 **3rd Place** - TÜBİTAK Robotaxi-Passenger (2023-2024, Original Vehicle Category)  
+🏅 **3rd Place** - TÜBİTAK Efficiency Challenge (2022-2023, Hydromobile Category)  
+
 ---
+
 ### 📫 Contact  
 📩 **Email:** [srecepalp@gmail.com](mailto:srecepalp@gmail.com)  
 🔗 **LinkedIn:** [Recepalp Saygılı](https://www.linkedin.com/in/recepalp-saygılı-b2a0a0231/)  
 🌍 **GitHub:** [Recepalp10](https://github.com/Recepalp10)  
+
 ---
-🚀 **"Building the future with AI & Robotics Systems!"**  
+
+🚀 **"Building the future with AI, Robotics & Embedded Systems!"**  
