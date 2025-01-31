@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Recepalp Saygılı 👋</h1>
 
 <p align="center">
-🚀 Computer Engineering Student | 🤖 Robotics & AI Enthusiast | 🔬 Embedded Systems Developer
+🚀 Computer Engineering Student | 🤖 Robotics & AI Enthusiast
 </p>
 
 ---
